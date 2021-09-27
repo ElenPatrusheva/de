@@ -1,4 +1,4 @@
-# DE assigment. Numerical methods for initial value problem
+# Differential Equations assigment. Numerical methods for initial value problem
 
 Elena Patrusheva B17-05
 
